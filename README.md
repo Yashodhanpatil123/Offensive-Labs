@@ -1,2 +1,2 @@
 # Offensive-Labs
-This repo is all about Red teaming Labs 
+This repo is all about Red team Labs 

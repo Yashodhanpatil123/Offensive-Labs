@@ -4,6 +4,7 @@
 
 *Im here to share my experience after completing JR pen Lab of THM . It was a great lab and i learned quite alot of things from it*
 
+**To solve this Lab one should know the fundamentals of Linux and Techniques required for Privilege Escalation**
 
 ------------
 
@@ -20,3 +21,6 @@ In the context of penetration testing and exploitation, privilege escalation occ
 …and many more harmful actions. Privilege escalation is an essential part of post-exploitation, and understanding common vectors is crucial to both offensive and defensive security.
 
 ----------
+
+This blog help me alot in solving this Lab 
+ - https://www.strongdm.com/blog/linux-privilege-escalation
